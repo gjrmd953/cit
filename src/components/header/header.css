@@ -1,0 +1,6 @@
+.menu_main{
+    background-color: green;
+}
+.menu_main .navbar-nav a{
+    color: #fff;
+}
