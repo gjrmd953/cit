@@ -1,6 +1,7 @@
 .menu_main{
-    background-color: green;
+    background-color: rgb(161, 200, 161);
 }
 .menu_main .navbar-nav a{
+    padding: 20px;
     color: #fff;
 }

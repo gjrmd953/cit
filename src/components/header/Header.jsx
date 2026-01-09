@@ -1,14 +1,14 @@
 import React from 'react'
-import {Container, Nav, Navbar} from "react-bootstrap"
+import { Container, Nav, Navbar } from "react-bootstrap"
 import "./header.css"
 import logo from "../../assets/logo.png"
 
 const Header = () => {
   return (
-        <Navbar expand="lg" className='menu_main'>
+    <Navbar expand="lg" className='menu_main'>
       <Container>
         <Navbar.Brand href="#home">
-            <img src={logo} alt="" />
+          <img src={logo} alt="" />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
