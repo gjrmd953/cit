@@ -1,14 +1,7 @@
-*{
-  margin: 0;
-  padding: 0;
-}
-a{
-  text-decoration: none;
-  display: inline-block;
-}
-ul{
-  list-style: none;
-}
-img{
-  vertical-align: middle;
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import "tailwindcss";
+
+@theme{
+  --font-INT:"Inter", sans-serif;
 }

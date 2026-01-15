@@ -1,15 +1,12 @@
-import About from "./components/about/About"
-import Banner from "./components/banner/Banner"
-import Header from "./components/header/Header"
+
+import Home from "./pages/Home"
 
 
 function App() {
 
   return (
     <>
-    <Header/>
-    <Banner/>
-    <About/>
+    <Home/>
     </>
   )
 }
