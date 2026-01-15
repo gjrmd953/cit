@@ -5,15 +5,15 @@ import Container from './Container';
 
 const Header = () => {
     return (
-        <div className="py-3 bg-[#ff1e1e]">
+        <div className="py-3 bg-[rgb(255,30,30)]">
             <Container>
                 <div className="flex justify-between">
                     <div className="w-1/2 flex gap-5">
-                        <div className="flex items-center gap-2 font-INT">
+                        <div className="flex items-center gap-2 font-INT cursor-pointer">
                             <IoCall className="text-white text-2xl" />
                             <h2 className="!text-[16px] text-white leading-none"> 01777308777 </h2>
                         </div>
-                        <div className="flex items-center gap-2">
+                        <div className="flex items-center gap-2 cursor-pointer">
                             <MdOutlineEmail className="text-white text-2xl" />
                             <h3 className="!text-[16px] text-white leading-none">
                                 info@creativeitinstitute.com
@@ -21,7 +21,7 @@ const Header = () => {
                         </div>
                     </div>
                     <div className="w-1/2">
-                        <div className="flex justify-end gap-2.5 font-INT text-white">
+                        <div className="flex justify-end gap-2.5 font-INT text-white cursor-pointer">
                             <h2>BN</h2>
                             <h3>EN</h3>
                         </div>
