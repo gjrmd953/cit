@@ -21,7 +21,7 @@ const Navbar = () => {
                             </ul>
                             <div className="font-INT font-bold text-2xl">
                                 <h2 className='py-3 px-6 rounded-2xl bg-[rgb(255,30,30)] text-white'>
-                                    iconBrowse Course
+                                    Browse Course
                                 </h2>
                             </div>
                             
