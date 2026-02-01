@@ -31,12 +31,12 @@ const Banner = () => {
                     Browse Course
                   </button>
                 </div>
-                {/* <div className="">
+                <div className="">
                   <button className='py-3 px-6 rounded-2xl bg-[rgb(255,30,30)] text-white flex gap-3 font-INT text-[18px] cursor-pointer hover:bg-white hover:text-[rgb(255,30,30)]'>
                     <img src={BookImg} alt="" />
                     Join free seminar
                   </button>
-                </div> */}
+                </div>
               </div>
             </div>
           </div>
