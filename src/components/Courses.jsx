@@ -31,7 +31,11 @@ const Courses = () => {
                             Digital Marketing
                         </h2>
                     </div>
-                    <div className=""></div>
+                    <div className="">
+                         <h2>
+                            Film & Media
+                        </h2>
+                    </div>
                 </div>
             </Container>
         </div>
