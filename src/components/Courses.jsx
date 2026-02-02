@@ -16,7 +16,11 @@ const Courses = () => {
                             Graphic &amp; Multimedia
                         </h2>
                     </div>
-                    <div className=""></div>
+                    <div className="">
+                         <h2>
+                            Web &amp; Software
+                        </h2>
+                    </div>
                     <div className=""></div>
                     <div className=""></div>
                     <div className=""></div>
