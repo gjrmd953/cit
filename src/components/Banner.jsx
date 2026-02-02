@@ -38,6 +38,13 @@ const Banner = () => {
                   </button>
                 </div>
               </div>
+
+              <div className="">
+                <h2>
+                  One of the best ISO certified IT
+                  Training Institutes in Bangladesh
+                </h2>
+              </div>
             </div>
           </div>
           <div className="w-3/5">
