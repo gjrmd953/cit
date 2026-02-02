@@ -1,8 +1,15 @@
 import React from 'react'
+import Container from './Container'
 
 const Courses = () => {
   return (
-    <div>Courses</div>
+    <div>
+        <Container>
+            <div className="">
+                
+            </div>
+        </Container>
+    </div>
   )
 }
 
