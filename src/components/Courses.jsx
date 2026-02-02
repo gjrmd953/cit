@@ -6,7 +6,12 @@ const Courses = () => {
     <div>
         <Container>
             <div className="">
-                
+                <div className=""></div>
+                <div className=""></div>
+                <div className=""></div>
+                <div className=""></div>
+                <div className=""></div>
+                <div className=""></div>
             </div>
         </Container>
     </div>
