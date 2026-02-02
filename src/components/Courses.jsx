@@ -11,7 +11,11 @@ const Courses = () => {
                             Networking &amp; Cyber Security
                         </h2>
                     </div>
-                    <div className=""></div>
+                    <div className="">
+                        <h2>
+                            Graphic &amp; Multimedia
+                        </h2>
+                    </div>
                     <div className=""></div>
                     <div className=""></div>
                     <div className=""></div>
